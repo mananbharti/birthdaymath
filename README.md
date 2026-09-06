@@ -33,3 +33,5 @@ Deploy **Vercel from `main`**. Do not set the production branch to `gh-pages` â€
 ## Author
 
 **Manan Bharti** ([@mananbharti](https://github.com/mananbharti))
+
+<a href="https://buymeachai.in/mananbharti"><img src="https://raw.githubusercontent.com/mananbharti/mananbharti/main/assets/buymeachai.png" alt="buymeachai" height="50" /></a>
