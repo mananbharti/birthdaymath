@@ -1,5 +1,7 @@
 # birthdaymath
 
+[![buymeachai](https://img.shields.io/badge/buymeachai-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeachai.in/mananbharti)
+
 An interactive birthday letter for **Dr. Renu Nagpal**.
 
 Four small questions spell **RENU**. Then a long letter.
