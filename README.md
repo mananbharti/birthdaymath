@@ -20,7 +20,7 @@ Content lives in `src/content/teacher.ts`.
 ## Local run
 
 ```bash
-git clone https://github.com/BiasManan2010/birthdaymath.git
+git clone https://github.com/mananbharti/birthdaymath.git
 cd birthdaymath
 npm install
 npm run dev
@@ -32,4 +32,4 @@ Deploy **Vercel from `main`**. Do not set the production branch to `gh-pages` â€
 
 ## Author
 
-**Manan Bharti** ([@BiasManan2010](https://github.com/BiasManan2010))
+**Manan Bharti** ([@mananbharti](https://github.com/mananbharti))
